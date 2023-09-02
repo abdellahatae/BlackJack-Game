@@ -8,6 +8,7 @@ body {
     text-align: center;
     color: aliceblue;
     font-weight: bold;
+    font-size: x-large ;
 }
 #message-el {
     font-style: italic;
